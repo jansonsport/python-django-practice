@@ -17,6 +17,7 @@ list3 = [6,7,9,4658,2365,1,1,1]
 list4 = [2,2,2,9,9,9,9,2,2,2]
 list5 = [3]
 
+
 median(list1)
 median(list2)
 median(list3)
